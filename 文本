@@ -6,3 +6,6 @@ luihaoDo用户进行合并DOShooting用户的请求
 
 DOShooting用户上线-fork-clone-branch-add-commit-push 等操作.
 
+1.注意使用fork的时候，用自己fork的地址，不用原主人的，否则自己
+没有权限进行操作
+2.revert的时候，只是revert的自己的

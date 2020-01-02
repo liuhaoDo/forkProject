@@ -6,6 +6,11 @@ luihaoDo用户进行合并DOShooting用户的请求
 
 DOShooting用户上线-fork-clone-branch-add-commit-push 等操作.
 
+
 1.注意使用fork的时候，用自己fork的地址，不用原主人的，否则自己
 没有权限进行操作
 2.revert的时候，只是revert的自己的
+
+DO:
+20200102测试一下revert：用liuhaoDo派生的项目给DOShooting用户，luihaoDo用户线上操作。
+DOSHooting用户线下操作，之后提交、之后revert，看看不同用户对同一文件的操作会不会受影响
